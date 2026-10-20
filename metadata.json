@@ -1,0 +1,6 @@
+{
+  "name": "TML Service Transformation - OEM Command & Governance Center",
+  "description": "Tata Motors Limited (TML) OEM Service Governance & Command Center for Regional Service Managers, Central Technical Desk, and Warranty Heads, integrating workshop appointment oversight, approvals, and iRA telematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
